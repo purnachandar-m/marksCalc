@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+}
+ fieldset{
+    transform: scale(1.1);
+    background-color: aliceblue;
+    
+ }
